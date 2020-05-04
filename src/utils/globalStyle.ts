@@ -22,6 +22,7 @@ export const GlobalStyle = createGlobalStyle`
     margin: 0;
     padding: 0;
     font-size: 1.6rem;
+    background-color: #1c1c1c;
   }
 
   h1,
