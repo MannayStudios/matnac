@@ -1427,17 +1427,17 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@msallent/gatsby-theme-skeleton-core@1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@msallent/gatsby-theme-skeleton-core/-/gatsby-theme-skeleton-core-1.0.1.tgz#5d0a4b91dac42d25058e47e530e58cb994656762"
-  integrity sha512-W7gfg9bSwHf6EbUA4WnVf+lf093StOyMFWEJWPzt+HkynqOwW8MJzMebp1grPGNkGLkcdYB1oIT0e8EAmzeI9A==
+"@msallent/gatsby-theme-skeleton-core@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@msallent/gatsby-theme-skeleton-core/-/gatsby-theme-skeleton-core-1.0.2.tgz#9d1cd756d913d9308b0402671910710c079a70e4"
+  integrity sha512-MtswE7FXuTjGzLwY6mL4t1RullW8J9x51uUt2IgNdYhMxGD4gISetrPIlKkWGHTTLSkUvdOlkA2v+B8nnBooLw==
   dependencies:
     gatsby-plugin-typescript "^2.3.1"
 
-"@msallent/gatsby-theme-skeleton-seo@1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@msallent/gatsby-theme-skeleton-seo/-/gatsby-theme-skeleton-seo-1.0.1.tgz#9f009104c2303d31f2646d69e813a4ac6d62a5d9"
-  integrity sha512-M8N8OKdkkVPyCgvnfdyhIlaeZNOoo/j39rK0dJndavGt66coSYt+o7N8P84w46EVSGsV7FU1aI1oBNq6RN0dNQ==
+"@msallent/gatsby-theme-skeleton-seo@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@msallent/gatsby-theme-skeleton-seo/-/gatsby-theme-skeleton-seo-1.0.2.tgz#a0572a8a7e48e53c6ce4b8d6eff31384e37f0696"
+  integrity sha512-XY9GqO26CoYpfgqlYCPNMyHw0XpVBombvtChgP+j3EaTJOQBg/kBqWjo0ku9mnAqwB0OLYnLBlx7d0W7r6t4Ww==
   dependencies:
     gatsby-plugin-react-helmet "^3.2.1"
     gatsby-plugin-sitemap "^2.3.1"
